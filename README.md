@@ -2,7 +2,7 @@
 
 This is or my printer. I made it public just in case someone wants to have a look.
 
-I've only changed the `configuration.h` file.
+I've only changed the `configuration.h` and `configuration_adv.h` files.
 
 Support for *BLTouch* has been added.
 
