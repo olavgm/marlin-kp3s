@@ -1,6 +1,6 @@
 # Marlin v2.0.7 for Kingroon KP3S
 
-This is or my printer. I made it public just in case someone wants to have a look.
+This is for my printer. I made it public just in case someone wants to have a look.
 
 I've only changed the `configuration.h` and `configuration_adv.h` files.
 
